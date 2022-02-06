@@ -2,7 +2,9 @@
 - 👀 I’m interested in the different web technologies 
 - 🌱 I’m currently constantly learning...
 - 💞️ I’m looking to collaborate on diffenrent community projects
-- 📫 How to reach me ...
+- 📫 How to reach me 
+- Instagram : https://www.instagram.com/fonseca_vega.98_/
+- Twitter : 
 
 <!---
 DanielVegaf/DanielVegaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
