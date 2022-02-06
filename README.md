@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on diffenrent community projects
 - 📫 How to reach me 
 - Instagram : https://www.instagram.com/fonseca_vega.98_/
-- Twitter : 
+- Linkedin : www.linkedin.com/in/denilsonvega
+- Twitter : https://twitter.com/denilson_dvf
 
 <!---
 DanielVegaf/DanielVegaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
